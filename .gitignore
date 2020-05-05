@@ -1,0 +1,8 @@
+beego_blog
+beego_blog
+.idea
+.Archive
+conf
+chrome-server
+supervisord.ini
+Makefile

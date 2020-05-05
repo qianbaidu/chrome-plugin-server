@@ -1,0 +1,24 @@
+appname = chrome-server
+httpaddr = "127.0.0.1"
+httpport = 8080
+runmode = dev
+
+jwt-key="xxxxx"
+# 有效期一周
+jwt-expire-second=604800
+dbtype=msqyl
+page_size=5
+
+[dev]
+dbHost = localhost
+dbPort = 3306
+dbUser = root
+dbPassword =
+dbName = chrome-srv
+
+[prod]
+dbhost = localhost
+dbport = 3306
+dbuser = root
+dbpassword =
+dbname = chrom-srv

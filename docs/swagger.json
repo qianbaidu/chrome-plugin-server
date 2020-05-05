@@ -1,0 +1,33 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "contact": {},
+        "license": {}
+    },
+    "paths": {
+        "/collection/delete-url": {
+            "post": {}
+        },
+        "/collection/edit-url/:id": {
+            "post": {}
+        },
+        "/collection/list": {
+            "get": {}
+        },
+        "/collection/save-url": {
+            "post": {}
+        },
+        "/collection/url/:id": {
+            "get": {}
+        },
+        "/login": {
+            "post": {}
+        },
+        "/logout": {
+            "post": {}
+        },
+        "/register": {
+            "post": {}
+        }
+    }
+}
